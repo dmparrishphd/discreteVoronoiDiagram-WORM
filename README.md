@@ -1,2 +1,4 @@
-# discreteVoronoiDiagram-WORM
-tabulate information for discrete Voronoi diagrams
+discreteVoronoiDiagram
+======================
+
+[README](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW#readme).
