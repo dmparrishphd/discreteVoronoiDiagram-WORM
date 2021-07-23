@@ -1,0 +1,15 @@
+Package: discreteVoronoiDiagram-WORM
+Type: Package
+Title: Discrete Voronoi Diagram (WORM)
+Version: 0.0-0
+Date: 2021-07-23
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Functions related to generating a discrete Voronoi
+    diagram.
+        This repository grows only by the appending of new
+    files. See the accompanying discreteVoronoiDiagram-CORW
+    repository for dynamic content, including documentation and
+    NEWS.
+License: AGPL-3
+Encoding: UTF-8
